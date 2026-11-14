@@ -1,3 +1,5 @@
+**中文** · [English](README.en.md)
+
 # Awesome Fable Game
 
 社区里流传的、据称由 Claude Fable 5.2 辅助制作的可玩游戏索引。
