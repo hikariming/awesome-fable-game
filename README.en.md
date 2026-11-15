@@ -24,6 +24,8 @@ This repository is an index only. Games and their assets belong to their origina
 - **[Turbo Tails](https://turbo-tails.vercel.app/)** — A 3D kart racer you can play in the browser, with multiple tracks and the option to race with friends. Author [@petergyang](https://x.com/petergyang) · [Demo post](https://x.com/petergyang/status/2119901658394358005)
 - **[Banana Mine Rush](https://remix.gg/g/banana-mine-rush)** — A mine-cart racer on the Remix platform; open it in the browser and play. Author [@0xChuckstock](https://x.com/0xChuckstock) · [Demo post](https://x.com/0xChuckstock/status/2120125184606658728)
 
+- **[星陨战纪 · Starfall](https://sanwan.ai/games/xingyun-moba/)** — An original browser 5v5 MOBA: one human player and nine AI opponents on a three-lane map, featuring Fan Kuai, Cheng Yaojin, Wang Zhaojun, Li Guang, and Jing Ke. The author says it was made with Fable 5.2. Author [@FuSheng_0306](https://x.com/FuSheng_0306) · [Demo post](https://x.com/FuSheng_0306/status/2121237878097207583)
+
 ## Collections and discovery
 
 - **[DSH Game Store](https://dsh-game-store.com/)** — A web store and discovery platform for "games people made with agents." Games in the catalog can be opened and played in the browser, and you can also submit titles for listing by following the site's instructions. It is listed here as a collection entry, not as a single game.

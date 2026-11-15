@@ -24,6 +24,8 @@ A short index of browser-playable games that people in the community say were ma
 - **[Turbo Tails](https://turbo-tails.vercel.app/)** — 浏览器里就能玩的 3D 卡丁车，多条赛道，可与朋友对战。作者 [@petergyang](https://x.com/petergyang) · [演示帖](https://x.com/petergyang/status/2119901658394358005)
 - **[Banana Mine Rush](https://remix.gg/g/banana-mine-rush)** — Remix 平台上的矿车竞速，浏览器即开即玩。作者 [@0xChuckstock](https://x.com/0xChuckstock) · [演示帖](https://x.com/0xChuckstock/status/2120125184606658728)
 
+- **[星陨战纪 · Starfall](https://sanwan.ai/games/xingyun-moba/)** — 原创网页 5v5 MOBA：一名玩家与九个 AI 在三路上对决，可选樊哙、程咬金、王昭君、李广、荆轲。作者称用 Fable 5.2 制作。作者 [@FuSheng_0306](https://x.com/FuSheng_0306) · [演示帖](https://x.com/FuSheng_0306/status/2121237878097207583)
+
 ## 游戏合集与发现
 
 - **[DSH 游戏商店](https://dsh-game-store.com/)** — 一个面向「大家用 Agent 做的游戏」的网页商店和发现平台。目录里的游戏可以在浏览器里打开就玩，也可以按站点说明投稿上架。这里把它当作合集入口列出，不是单款游戏。
